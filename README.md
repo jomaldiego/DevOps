@@ -1,5 +1,6 @@
 # DevOps
 AulaDevOps
 Camila Pitanga
-Viola Davis
+Leandra Leal
 Denzel Washington
+Alessandra Negrini
